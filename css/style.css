@@ -522,7 +522,7 @@ a.logo {
 }
 
 a.button-style {
-    padding: 13px 26px;
+    padding: 0.5em -1em;
     color: #000;
     letter-spacing: 1px;
     border-radius: 0px;
